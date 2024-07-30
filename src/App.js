@@ -86,7 +86,7 @@ function StepandCounter() {
         </p>
       </div>
       <button className="btn margin-y" onClick={reset}>
-        Reset
+         Reset 
       </button>
     </div>
   );
